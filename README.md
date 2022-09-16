@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/gist/UNeighbor/7c138fc6b54968039d0120a584
 
 - 📫 How to reach me: andredirval2701@gmail.com
 
-- 💬 Linkedin: https://www.linkedin.com/in/andr%C3%A9-alves-609a18213
+- 💬 Linkedin: https://www.linkedin.com/in/andrealves27
 
 <br/>
 
