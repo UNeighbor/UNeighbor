@@ -1,8 +1,6 @@
-<!--<img align="right" heigth="590px" 
-src="https://raw.githubusercontent.com/gist/UNeighbor/7c138fc6b54968039d0120a584a983d3/raw/94d22872e4c99ac4fa24f1d01cf3e70dafe09e8f/githubcard.svg"/>
--->
+<img align="right" heigth="590px" 
+src="https://raw.githubusercontent.com/gist/UNeighbor/e67b7b477c0deef45137798857bf08fe/raw/42c48d0ead16c83ad942b03e785f7c792965ba4f/cardGitHub.svg"/>
 
-<p align="right" heigth="590px">⚠️ Banner in production ⚠️<p/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm André Alves</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uneigbor&color=red" alt="Profile views" /> </p>
